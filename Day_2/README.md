@@ -1,7 +1,8 @@
 # Day 2: Apache Spark Fundamentals 
 
 **Challenge:** [Databricks 14-Day AI Challenge](https://www.linkedin.com/feed/hashtag/?keywords=databrickswithidc)  
-**Topic:** Spark Architecture & DataFrame Transformations
+**Topic:** Spark Architecture & DataFrame Transformations  
+
 <img width="512" height="640" alt="image" src="https://github.com/user-attachments/assets/06efecc7-5f4f-4cfc-9049-6494f0d2cb58" />
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
