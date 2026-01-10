@@ -4,6 +4,9 @@
 **Dataset:** [E-Commerce Behavior Data (Oct/Nov 2019)](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
 ![Day1](https://github.com/user-attachments/assets/f1b1d419-fa27-41df-90b9-6c2b50f8d74a)
 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 🧠 Theory: Understanding the Ecosystem
