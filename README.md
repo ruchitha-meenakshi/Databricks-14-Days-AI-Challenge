@@ -4,7 +4,9 @@
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Codebasics](https://img.shields.io/badge/Codebasics-F7931E?style=for-the-badge)
+![Indian Data Club](https://img.shields.io/badge/Indian_Data_Club-4CAF50?style=for-the-badge)  
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 
 ---
 
@@ -18,7 +20,7 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | Day | Topic | Key Learnings | Status |
 | :--- | :--- | :--- | :--- |
 | **01** | [Platform Setup & Architecture](./Day_01/README.md) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
-| **02** | Apache Spark Fundamentals| (Coming Soon) | ⏳ Pending |
+| **02** | [Apache Spark Fundamentals]| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ⏳ Pending |
 | **03** | ... | ... | ⏳ Pending |
 
 ---
