@@ -19,9 +19,9 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 
 | Day | Topic | Key Learnings | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [Platform Setup & Architecture](./Day_01/README.md) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
-| **02** | [Apache Spark Fundamentals]| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ⏳ Pending |
-| **03** | ... | ... | ⏳ Pending |
+| **01** | [Platform Setup & Architecture](Day_1/README.md) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
+| **02** | [Apache Spark Fundamentals](Day_2/README.md)| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ✅ Completed |
+| **03** | PySpark Transformations Deep Dive | ... | ⏳ Pending |
 
 ---
 
