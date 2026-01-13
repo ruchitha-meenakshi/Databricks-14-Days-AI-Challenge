@@ -1,4 +1,4 @@
-# Day 4: Delta Lake Advanced
+# Day 5: Delta Lake Advanced
 **Challenge:** [Databricks 14-Day AI Challenge](https://www.linkedin.com/feed/hashtag/?keywords=databrickswithidc)  
 **Topic:** Time Travel, Optimization (Z-Order), and Maintenance (Vacuum)  
 <img width="1080" height="1350" alt="5 (1)" src="https://github.com/user-attachments/assets/84669809-f9c2-4d14-9842-f848f2e312fe" />
