@@ -19,11 +19,15 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 
 | Day | Topic | Key Learnings | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [Platform Setup & Architecture](Day_1/README.md) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
-| **02** | [Apache Spark Fundamentals](Day_2/README.md)| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ✅ Completed |
-| **03** | [PySpark Transformations Deep Dive](Day_3/README.md) |Broadcast Joins (Optimization), Window Functions (Running Totals), Pivoting (Derived Features) | ✅ Completed |
-| **04** | [Delta Lake Introduction](Day_4/README.md) | Delta Tables (ACID), Schema Enforcement, and Upserts (MERGE) | ✅ Completed |
-| **05** | Delta Lake Advanced |  | ⌛ Pending |
+| **01** | [Platform Setup & Architecture](Day_1) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
+| **02** | [Apache Spark Fundamentals](Day_2)| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ✅ Completed |
+| **03** | [PySpark Transformations Deep Dive](Day_3) |Broadcast Joins (Optimization), Window Functions (Running Totals), Pivoting (Derived Features) | ✅ Completed |
+| **04** | [Delta Lake Introduction](Day_4) | Delta Tables (ACID), Schema Enforcement, and Upserts (MERGE) | ✅ Completed |
+| **05** | [Delta Lake Advanced](Day_5) | Time Travel, Optimization (Z-Order), and Maintenance (Vacuum) | ✅ Completed 
+| **06** | [Medallion Architecture](Day_6) | Designing a Multi-Hop Architecture | ✅ Completed |
+| **07** | [Workflows & Job Orchestration](Day_7) | Moving from Manual Notebooks to Automated Production Jobs | ✅ Completed |
+| **08** | [Unity Catalog Governance](Day_8)  | Data Governance, Security, and SQL Namespaces | ✅ Completed |
+| **09** | SQL Analytics & Dashboards |  | ⌛ Pending |
 ---
 
 ### 🔗 Connect & Support
