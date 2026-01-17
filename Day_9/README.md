@@ -79,4 +79,4 @@ I grouped users into **VIP**, **Loyal**, and **Regular** tiers based on their li
 ---
 ### 📂 Repository Structure
 * **`Day 9 - SQL Analytics & Dashboards.ipynb`**: The engineering notebook used to ingest and merge the combined Oct/Nov dataset for this specific analysis.
-* 
+* **`Day 9 - analytics_queries.sql`**: A consolidated SQL file containing the three analytical queries (Revenue Trends, Funnel Analysis, Customer Tiers) used to power the visualizations.
