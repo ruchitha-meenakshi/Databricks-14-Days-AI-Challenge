@@ -32,7 +32,7 @@ In Big Data, the fastest query is the one that reads the **least amount of data*
 
 ---
 
-## Performance Analysis: The "Small Data" Paradox
+## Performance Analysis:
 
 I benchmarked the query execution before and after optimization using a specific User ID lookup (`user_id = 554517099`).
 
