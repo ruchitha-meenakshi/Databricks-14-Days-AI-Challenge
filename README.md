@@ -12,6 +12,10 @@
 
 This repository documents my journey through the **Databricks 14-Day AI Challenge**, organized by **Indian Data Club**, **Codebasics**, and **Databricks**.
 
+## ⚠️ Attribution Notice
+
+This repository contains my original work from the Databricks 14-Day AI Challenge. Reusing code, structure, or written content requires clear attribution to this repository.
+
 ## 🎯 Challenge Goal
 The **Databricks 14-Day AI Challenge** is designed to help beginners build a strong foundation on the Databricks through daily learning, hands-on practice, and real-world problem solving.
 
@@ -27,7 +31,10 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | **06** | [Medallion Architecture](Day_6) | Designing a Multi-Hop Architecture | ✅ Completed |
 | **07** | [Workflows & Job Orchestration](Day_7) | Moving from Manual Notebooks to Automated Production Jobs | ✅ Completed |
 | **08** | [Unity Catalog Governance](Day_8)  | Data Governance, Security, and SQL Namespaces | ✅ Completed |
-| **09** | SQL Analytics & Dashboards |  | ⌛ Pending |
+| **09** | SQL Analytics & Dashboards | BI, Reporting, and Visualizing Insights | ✅ Completed |
+| **10** | Performance Optimization | Query Tuning, Data Skipping, and Caching | ✅ Completed |
+| **11** | Statistical Analysis & ML Prep |  | ⌛ Pending |
+
 ---
 
 ### 🔗 Connect & Support
