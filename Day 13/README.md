@@ -82,7 +82,7 @@ I designed a **Challenger Experiment** to test three strategies against the base
 | Model  | Strategy | Hypothesis | Result (Recall) | Verdict |
 | ----  | ---- | ---- | ---- | ---- |
 | **1. LogReg_Unbalanced** | Baseline | Standard parameters. | **0.00%** | **FAILED** (Same as Day 12) |
-| **2. LogReg_Balanced** | **The Fix** | `class_weight='balanced'` | **53.64%** | **WINNER ** |
+| **2. LogReg_Balanced** | **The Fix** | `class_weight='balanced'` | **53.64%** | **Best Performer** |
 | **3. RandomForest** | The Upgrade | Complex Ensemble + Balanced | **5.15%** | **Underperformed** |
 
 ---
