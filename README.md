@@ -31,10 +31,12 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | **06** | [Medallion Architecture](Day_6) | Designing a Multi-Hop Architecture | ✅ Completed |
 | **07** | [Workflows & Job Orchestration](Day_7) | Moving from Manual Notebooks to Automated Production Jobs | ✅ Completed |
 | **08** | [Unity Catalog Governance](Day_8)  | Data Governance, Security, and SQL Namespaces | ✅ Completed |
-| **09** | SQL Analytics & Dashboards | BI, Reporting, and Visualizing Insights | ✅ Completed |
-| **10** | Performance Optimization | Query Tuning, Data Skipping, and Caching | ✅ Completed |
-| **11** | Statistical Analysis & ML Prep |  | ⌛ Pending |
-
+| **09** | [SQL Analytics & Dashboards](Day_9) | BI, Reporting, and Visualizing Insights | ✅ Completed |
+| **10** | [Performance Optimization](Day_10) | Query Tuning, Data Skipping, and Caching | ✅ Completed |
+| **11** | [Statistical Analysis and ML Prep](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main/Day%2011)| ML Preparation, Hypothesis Testing, and Feature Engineering  | ✅ Completed 
+| **12** | [MLflow Basics](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main/Day%2012) | MLflow, Experiment Tracking, and Model Evaluation | ✅ Completed |
+| **13** | [Model Comparison & Feature Engineering](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main/Day%2013) | Hyperparameter Tuning, Class Weighting, and Distributed ML | ✅ Completed |
+| **14** | AI-Powered Analytics: Genie & Mosaic AI |  | ⌛ Pending |
 ---
 
 ### 🔗 Connect & Support
