@@ -36,7 +36,14 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | **11** | [Statistical Analysis and ML Prep](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main/Day%2011)| ML Preparation, Hypothesis Testing, and Feature Engineering  | ✅ Completed 
 | **12** | [MLflow Basics](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main/Day%2012) | MLflow, Experiment Tracking, and Model Evaluation | ✅ Completed |
 | **13** | [Model Comparison & Feature Engineering](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main/Day%2013) | Hyperparameter Tuning, Class Weighting, and Distributed ML | ✅ Completed |
-| **14** | AI-Powered Analytics: Genie & Mosaic AI |  | ⌛ Pending |
+| **14** | AI-Powered Analytics: Genie & Mosaic AI | Generative AI (Mosaic AI), Natural Language to SQL (Genie), and MLOps Governance | ✅ Completed |
+---
+## 🎓 14-Day Challenge Summary
+Two weeks ago, I started with raw CSV files. Today, I have an end-to-end AI system.
+* **Days 1-7 (Engineering)**: Ingested raw data, cleaned nulls, built a Medallion Architecture (Bronze $\to$ Silver $\to$ Gold).
+* **Days 8-11 (Analysis)**: Mastered Spark SQL for complex aggregations and window functions.
+* **Days 12-13 (ML)**: Trained models, fixed the "Accuracy Paradox" (0% Recall $\to$ 56% Recall), and scaled with Spark ML Pipelines.
+* **Day 14 (GenAI & Ops)**: Integrated LLMs for text analysis and deployed a governed model to production.
 ---
 
 ### 🔗 Connect & Support
